@@ -84,3 +84,5 @@ char	*get_path(char *cmd, char **env)
 	ft_free_tab(s_cmd);
 	return (cmd);
 }
+
+// https://github.com/jdecorte-be/42-Pipex/tree/master/src
